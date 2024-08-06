@@ -14,6 +14,6 @@ Short Introduction to Stochastic Analysis: under construction.
 **Computational**:  
 [Importance Resampling](https://github.com/siddigss/Computational-Probability-Topics/blob/main/Importance%20Resampling/Untitled.ipynb).  
 
-**Gifted High school students**:  
+**Talented High school students**:  
 [Olympiadic Number Theory](https://munhana.orgfree.com/forum/viewtopic.php?f=17&t=61) (Arabic).  
 [A week introduction to AI mathematics](https://github.com/siddigss/AI-MATH).  
