@@ -30,7 +30,7 @@ Research
 
 Contact
 =====
-<span style="font-size:0.9em;">Building 1, level 4</span> 
-<span style="font-size:0.9em;">Applied Mathematics and Computational Sciences</span>
-<span style="font-size:0.9em;">King Abdullah University of Science and Technology</span>
-<span style="font-size:0.9em;">elsiddigawadelkarim.elsiddig@kaust.edu.sa</span>
+<span style="font-size:0.9em;">Building 1, level 4</span>  
+<span style="font-size:0.9em;">Applied Mathematics and Computational Sciences</span>  
+<span style="font-size:0.9em;">King Abdullah University of Science and Technology</span>  
+<span style="font-size:0.9em;">elsiddigawadelkarim.elsiddig@kaust.edu.sa</span>  
