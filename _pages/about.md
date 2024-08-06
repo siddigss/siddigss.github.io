@@ -14,13 +14,10 @@ I am a PhD student at King Abdullah University of Science and Technology (KAUST)
 
 Education
 ======
-<span style="font-size:0.9em;">PhD in Applied Mathematics and Computational Sciences, Kaust, Saudi Arabia, 2022-SOON!.</span>  
-
-<span style="font-size:0.9em;">Masters in Applied Mathematics, Paris Dauphine Universite, France, 2018-2019.</span>  
-
-<span style="font-size:0.9em;">Postgraduate Diploma in Mathematics, the International Centre for Theoretical Physics (ICTP), Italy, 2017-2018.</span>  
-
-<span style="font-size:0.9em;">Bachelor in Mathematics, King Saud University, Saudi Arabia, 2012-2016.</span>  
+<span style="font-size:0.9em;margin-bottom:0.3cm;">PhD in Applied Mathematics and Computational Sciences, Kaust, Saudi Arabia, 2022-SOON!.</span>  
+<span style="font-size:0.9em;margin-bottom:0.3cm;">Masters in Applied Mathematics, Paris Dauphine Universite, France, 2018-2019.</span>  
+<span style="font-size:0.9em;margin-bottom:0.3cm;">Postgraduate Diploma in Mathematics, the International Centre for Theoretical Physics (ICTP), Italy, 2017-2018.</span>  
+<span style="font-size:0.9em;margin-bottom:0.3cm;">Bachelor in Mathematics, King Saud University, Saudi Arabia, 2012-2016.</span>  
 
 Research
 ======
