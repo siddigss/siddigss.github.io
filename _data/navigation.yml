@@ -1,13 +1,11 @@
 # main links links
 main:
+  - title: "Resources and Demonstration" 
+    url: /Demonstration/
+    
   - title: "Teaching"
     url: /teaching/    
-            
-  - title: "Posts"
-    url: /year-archive/
-    
+                
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
-    url: /markdown/
