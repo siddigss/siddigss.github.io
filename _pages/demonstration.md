@@ -26,9 +26,12 @@ author_profile: true
 
 **Style Transfer**
 
+<p>
 <img src="https://camo.githubusercontent.com/669d7bc63e1d9a802754550e68828ca3cb3ffa9d2db14b5bdc55907e00aa7f0b/68747470733a2f2f692e696d6775722e636f6d2f694c46595361552e706e67" width="700" style="display: block;margin: auto;"/>
-
+</p>
 
 **Active Contours (Snakes)**
 
+<p>
 ![snake_1](https://camo.githubusercontent.com/c768985bc5154d0de689db81c7840abc6d848d9b7344bf06bee188ebf49b9df6/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4a34683962786673426a6f45466e576f33392f67697068792e676966)
+</p>
