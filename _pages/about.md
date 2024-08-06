@@ -15,14 +15,19 @@ I am a PhD student at King Abdullah University of Science and Technology (KAUST)
 Education
 ======
 <span style="font-size:0.9em;">PhD in Applied Mathematics and Computational Sciences, Kaust, Saudi Arabia, 2022-SOON!.</span>  
+
 <span style="font-size:0.9em;">Masters in Applied Mathematics, Paris Dauphine Universite, France, 2018-2019.</span>  
+
 <span style="font-size:0.9em;">Postgraduate Diploma in Mathematics, the International Centre for Theoretical Physics (ICTP), Italy, 2017-2018.</span>  
+
 <span style="font-size:0.9em;">Bachelor in Mathematics, King Saud University, Saudi Arabia, 2012-2016.</span>  
 
 Research
 ======
 <span style="font-size:0.9em;">(2023) Awadelkarim, E., Jasra, A., Ruzayqat, H. {Unbiased Parameter Estimation for Partially Observed Diffusions}, \emph{SIAM Journal on Control and Optimization} (to appear).</span>  
+
 <span style="font-size:0.9em;">(2024) Awadelkarim, E., Jasra, A.  {Multilevel Particle Filters for Partially Observed McKean-Vlasov Stochastic Differential Equations}, arXiv preprint arXiv:2404.15606.</span>  
+
 <span style="font-size:0.9em;">(2024) Awadelkarim E., Cafferel, M., Del Moral, P., Jasra, A., {On the Particle Approximation of Lagged Feynman-Kac Formulae}, arXiv preprint arXiv:2407.15494.</span>  
 
 
