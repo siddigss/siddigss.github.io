@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "About Me"
+title: "Elsiddig Awadelkarim"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+<span style="font-size:0.9em;line-height: 50px;">elsiddigawadelkarim.elsiddig@kaust.edu.sa</span>  
 <span style="font-size:0.9em;">
 I am a PhD student at King Abdullah University of Science and Technology (KAUST) Saudi Arabia. My supervisors are Professor Ajay Jasra (CUHK now) and Professor Raul Tempone.  </span>  
 
@@ -27,4 +28,7 @@ Research
 
 <span style="font-size:0.9em;">(2024) Awadelkarim, E., Jasra, A.  Multilevel Particle Filters for Partially Observed McKean-Vlasov Stochastic Differential Equations, arXiv preprint arXiv:2404.15606.</span>  
 
+Contact
+=====
+Email: elsiddigawadelkarim.elsiddig@kaust.edu.sa
 
