@@ -16,7 +16,7 @@ Education
 ======
 <span style="font-size:0.9em;margin-bottom:2cm;">PhD in Applied Mathematics and Computational Sciences, Kaust, Saudi Arabia, 2022-SOON!.</span>  
 <span style="font-size:0.9em;margin-bottom:2cm;">Masters in Applied Mathematics, Paris Dauphine Universite, France, 2018-2019.</span>  
-<span style="font-size:0.9em;margin-bottom:2cm;">Postgraduate Diploma in Mathematics, the International Centre for Theoretical Physics (ICTP), Italy, 2017-2018.</span>  
+<span style="font-size:0.9em;margin-bottom:2cm;">Postgraduate Diploma in Mathematics, International Centre for Theoretical Physics (ICTP), Italy, 2017-2018.</span>  
 <span style="font-size:0.9em;margin-bottom:0.3cm;">Bachelor in Mathematics, King Saud University, Saudi Arabia, 2012-2016.</span>  
 
 Research
