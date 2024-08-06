@@ -11,10 +11,18 @@ redirect_from:
 
 Education
 ======
-* PhD in Applied Mathematics and Computational Sciences, Kaust, Saudi Arabia, 2022-SOON! (expected)
-* Masters in Applied Mathematics, Paris Dauphine Universite, France, 2018-2019.
+* PhD in Applied Mathematics and Computational Sciences, [King Abdullah University of Science and Technology (Kaust)](https://www.kaust.edu.sa/en/), Saudi Arabia, 2022-SOON! (expected)
+    * Thesis Title (Work in progress): Some Contributions to Numerical Approximations of Feynman-Kac Formulae.
+    * Advisor: Prof. Ajay Jasra and Prof. Raul Tempone.
+* Masters in Applied Mathematics, [Paris Dauphine Universite](https://dauphine.psl.eu/en/), France, 2018-2019.
+    * Project: Central Limit Theorem on Wasserstein spaces.
+    * Advisor: Prof. Djalil Chafai.
 * Postgraduate Diploma in Mathematics, International Centre for Theoretical Physics (ICTP), Italy, 2017-2018.
+    * Advisor: Prof.  Claudio Arezzo.
+    * Thesis: On the geometry of spaces of constant curvature.
 * Bachelor in Mathematics, King Saud University, Saudi Arabia, 2012-2016.
+  * Thesis: Linear Groups of Degree 2 and the Poincaré Hyperbolic Half-Plane.
+  * Advisor: Prof. Malik Talbi.
 
 Work experience
 ======
@@ -31,28 +39,7 @@ Work experience
 * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  * Supervisor: Professor Git  
 
 Teaching
 ======
@@ -65,10 +52,10 @@ Teaching
   
 Awards and Scholarships
 ======
-* Fondation Sciences Mathematiques de Paris Scholarship Fellowship (2018-2019):
+* **Fondation Sciences Mathematiques de Paris Scholarship Fellowship (2018-2019)**:
 This is a fellowship for one year awarded by the Foundation Sciences Mathematiques de Paris to attend the second year Master program (M2) in Mathematics at Paris-Dauphine University Paris, France.  
 Amount of Scholarship: 11,000 Euro for one year+ traveling expenses.
-* ICTP--Postgraduate Diploma Fellowship (2017--2018):
+* **ICTP--Postgraduate Diploma Fellowship (2017--2018)**:
 This was fellowship for one years awarded by the The Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy, to attend the postgraduate program in Mathematics 2017-2018.  
 Amount of Scholarship: 12,000 Euro
 * The best performing student in Mathematics at ICTP award 2017–2018.
