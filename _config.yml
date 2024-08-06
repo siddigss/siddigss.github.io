@@ -21,7 +21,7 @@ repository               : "siddigss/siddigss.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "siddig.png"
   name             : "Elsiddig Awadelkarim Elsiddig"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Applied Mathematics at KAUST"
