@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-size:0.5em;">
+<span style="font-size:0.9em;">
 I am a PhD student at King Abdullah University of Science and Technology (KAUST) Saudi Arabia. My supervisors are Professor Ajay Jasra (CUHK now) and Professor Raul Tempone. I am interested in mathematical statistics, Markov chains, Monte Carlo methods, and stochastic analysis. During my PhD my research is focused on applied problems associated with stochastic differential equations (SDEs), these problems include filtering, estimation, and sampling. The goal is to propose and establish methods that are well-studied theoretically and provide numerical implementations that corroborate their efficacy.
 </span>
 
