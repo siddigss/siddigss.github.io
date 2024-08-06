@@ -21,10 +21,10 @@ Education
 
 Research
 ======
-<span style="font-size:0.9em;">(2023) Awadelkarim, E., Jasra, A., Ruzayqat, H. {Unbiased Parameter Estimation for Partially Observed Diffusions}, \emph{SIAM Journal on Control and Optimization} (to appear).</span>  
+<span style="font-size:0.9em;">(2023) Awadelkarim, E., Jasra, A., Ruzayqat, H. Unbiased Parameter Estimation for Partially Observed Diffusions, SIAM Journal on Control and Optimization (to appear).</span>  
 
-<span style="font-size:0.9em;">(2024) Awadelkarim E., Cafferel, M., Del Moral, P., Jasra, A., {On the Particle Approximation of Lagged Feynman-Kac Formulae}, arXiv preprint arXiv:2407.15494.</span>  
+<span style="font-size:0.9em;">(2024) Awadelkarim E., Cafferel, M., Del Moral, P., Jasra, A., On the Particle Approximation of Lagged Feynman-Kac Formulae, arXiv preprint arXiv:2407.15494.</span>  
 
-<span style="font-size:0.9em;">(2024) Awadelkarim, E., Jasra, A.  {Multilevel Particle Filters for Partially Observed McKean-Vlasov Stochastic Differential Equations}, arXiv preprint arXiv:2404.15606.</span>  
+<span style="font-size:0.9em;">(2024) Awadelkarim, E., Jasra, A.  Multilevel Particle Filters for Partially Observed McKean-Vlasov Stochastic Differential Equations, arXiv preprint arXiv:2404.15606.</span>  
 
 
