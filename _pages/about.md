@@ -28,3 +28,9 @@ Research
 
 <span style="font-size:0.9em;">(2024) Awadelkarim, E., Jasra, A.  Multilevel Particle Filters for Partially Observed McKean-Vlasov Stochastic Differential Equations, arXiv preprint arXiv:2404.15606.</span>  
 
+Contact
+=====
+<span style="font-size:0.9em;">Building 1, level 4</span> 
+<span style="font-size:0.9em;">Applied Mathematics and Computational Sciences</span>
+<span style="font-size:0.9em;">King Abdullah University of Science and Technology</span>
+<span style="font-size:0.9em;">elsiddigawadelkarim.elsiddig@kaust.edu.sa</span>
