@@ -24,24 +24,7 @@ Education
   * Thesis: Linear Groups of Degree 2 and the Poincaré Hyperbolic Half-Plane.
   * Advisor: Prof. Malik Talbi.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git  
-
-Teaching
+Teaching and Work
 ======
 * Lecturer of mathematics at Sudan International University 2020-2021.
 * A trainer in MAWHIBA program for training the Saudi team for the International Mathematical Olympiads 2016, 2017, 2022, 2023, and 2024.
