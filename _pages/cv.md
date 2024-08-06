@@ -17,10 +17,10 @@ Education
 * Masters in Applied Mathematics, [Paris Dauphine Universite](https://dauphine.psl.eu/en/), France, 2018-2019.
     * Project: Central Limit Theorem on Wasserstein spaces.
     * Advisor: Prof. Djalil Chafai.
-* Postgraduate Diploma in Mathematics, International Centre for Theoretical Physics (ICTP), Italy, 2017-2018.
+* Postgraduate Diploma in Mathematics, [International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/), Italy, 2017-2018.
     * Advisor: Prof.  Claudio Arezzo.
     * Thesis: On the geometry of spaces of constant curvature.
-* Bachelor in Mathematics, King Saud University, Saudi Arabia, 2012-2016.
+* Bachelor in Mathematics, [King Saud University](https://www.ksu.edu.sa/en), Saudi Arabia, 2012-2016.
   * Thesis: Linear Groups of Degree 2 and the Poincaré Hyperbolic Half-Plane.
   * Advisor: Prof. Malik Talbi.
 
