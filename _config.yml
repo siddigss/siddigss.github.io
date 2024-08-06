@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Applied Mathematics at KAUST"
   location         : "Saudi Arabia"
-  employer         : "<a href="https://www.kaust.edu.sa/en/">King Abdullah University of Science </br>and Technology"</a>
-  uri              : "https://www.kaust.edu.sa/en/"
+  employer         : "<a href='https://www.kaust.edu.sa/en/'>King Abdullah University of Science </br>and Technology</a>"
+  uri              : #"https://www.kaust.edu.sa/en/"
   email            : "elsiddigawadelkarim.elsiddig@kaust.edu.sa" 
 
   # Academic websites
