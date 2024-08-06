@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: #"Notes"
-permalink: /sitemap/
+permalink: /notes/
 author_profile: true
 ---
 {% include base_path %}
