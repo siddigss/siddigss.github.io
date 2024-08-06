@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Resources and Demonstration" 
+  - title: "Demonstration" 
     url: /demonstration/
+
+  - title: "Notes"
+    url: /notes/
     
   - title: "Teaching"
     url: /teaching/    
