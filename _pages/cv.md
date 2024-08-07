@@ -18,8 +18,8 @@ Education
     * Project: Central Limit Theorem on Wasserstein spaces.
     * Advisor: Prof. Djalil Chafai.
 * Postgraduate Diploma in Mathematics, [International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/), Italy, 2017-2018.
-    * Advisor: Prof.  Claudio Arezzo.
     * Thesis: On the geometry of spaces of constant curvature.
+    * Advisor: Prof.  Claudio Arezzo.
 * Bachelor in Mathematics, [King Saud University](https://www.ksu.edu.sa/en), Saudi Arabia, 2012-2016.
   * Thesis: Linear Groups of Degree 2 and the Poincaré Hyperbolic Half-Plane.
   * Advisor: Prof. Malik Talbi.
