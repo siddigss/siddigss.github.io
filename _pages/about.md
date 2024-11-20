@@ -22,7 +22,7 @@ Education
 
 Research
 ======
-<span style="font-size:0.9em;">(2023)Awadelkarim, E., Jasra, A., & Ruzayqat, H. (2024). Unbiased parameter estimation for partially observed diffusions. SIAM Journal on Control and Optimization, 62(5), 2664–2694.</span>  
+<span style="font-size:0.9em;">(2024)Awadelkarim, E., Jasra, A., & Ruzayqat, H. (2024). Unbiased parameter estimation for partially observed diffusions. SIAM Journal on Control and Optimization, 62(5), 2664–2694.</span>  
 
 <span style="font-size:0.9em;">(2024) Awadelkarim E., Chada, NK., Jasra, A., Unbiased Approximations for Stationary Distributions of McKean-Vlasov SDEs, arXiv preprint arXiv:2411.11270.</span>  
 
