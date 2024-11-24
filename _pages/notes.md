@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 **Theory**:  
-Short Introduction to Stochastic Analysis: Under Construction.  
+[Short Introduction to Stochastic Analysis](https://github.com/siddigss/general-mathematical-notes/blob/main/Stochastic%20Analysis/short_stochastic_analysis_course.pdf): Under Construction.  
 [Statistics rigorously](https://github.com/siddigss/Statistics-from-Rigrous-to-Practical): Under Construction.  
 [Motivation of Some PDEs Methods](https://github.com/siddigss/general-mathematical-notes/blob/main/pdes/motivation%20of%20some%20pdes%20methods.pdf).  
 
