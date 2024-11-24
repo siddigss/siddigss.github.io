@@ -27,7 +27,7 @@ Education
 Teaching and Work
 ======
 * Lecturer of mathematics at Sudan International University 2020-2021.
-* A trainer in MAWHIBA program for training the Saudi team for the International Mathematical Olympiads 2016, 2017, 2022, 2023, and 2024.
+* A mathematics trainer in King Abdulaziz and his Companions Foundation for Giftedness and Creativity (MAWHIBA) program for training the Saudi team for the International Mathematical Olympiads 2016, 2017, 2022, 2023, and 2024.
 * Lecturer and teaching assistant with KAUST Academy Program for teaching Artificial intelligence in 2023 and 2024.
 * Teaching Assistant for the PhD level course Stochastic Numerics at Kaust.
 * Teaching Assistant of Mathematics at University of Khartoum 2020.
@@ -48,6 +48,6 @@ Amount of Scholarship: 12,000 Euro
 * King Saud University Dean's award for academic excellence 2016.
 * King Saud University Dean's award for academic excellence 2015.
 * King Saud University Dean's award for academic excellence 2014.
-* Second place in King Fahad University for Petroleum and Minerals Mathematical
+* Second place in King Fahad University for Petroleum and Minerals National Mathematical
 Olympiad 2012.
 * Honorable mention in Asian Pacific Mathematical Olympiad 2012.
