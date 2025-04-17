@@ -14,7 +14,7 @@ I am a PostDoc at King Abdullah University of Science and Technology (KAUST) in 
 Education
 ======
 * PhD in Applied Mathematics and Computational Sciences, [King Abdullah University of Science and Technology (Kaust)](https://www.kaust.edu.sa/en/), Saudi Arabia, 2022-2025.
-    * Thesis Title (Work in progress): Some Contributions to Numerical Approximations of Feynman-Kac Formulae.
+    * Thesis Title: Some Contributions to Particle and Unbiased Simulation Methods.
     * Advisor: Prof. Ajay Jasra and Prof. Raul Tempone.
 * Masters in Applied Mathematics, [Paris Dauphine Universite](https://dauphine.psl.eu/en/), France, 2018-2019.
     * Project: Central Limit Theorem on Wasserstein spaces.
