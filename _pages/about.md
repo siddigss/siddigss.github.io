@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-size:0.9em;line-height: 50px;">elsiddigawadelkarim.elsiddig@kaust.edu.sa</span>  
 <span style="font-size:0.9em;">
 I am a PostDoc at King Abdullah University of Science and Technology (KAUST) in [Stochastic Processes and Applied Statistics Research Group](https://stochproc.kaust.edu.sa/). </span> 
 
