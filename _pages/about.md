@@ -8,14 +8,14 @@ redirect_from:
 ---
 <span style="font-size:0.9em;line-height: 50px;">elsiddigawadelkarim.elsiddig@kaust.edu.sa</span>  
 <span style="font-size:0.9em;">
-I am a PhD student at King Abdullah University of Science and Technology (KAUST) Saudi Arabia. My supervisors are Professor Ajay Jasra (CUHK now) and Professor Raul Tempone.  </span>  
+I am a PostDoc at King Abdullah University of Science and Technology (KAUST) in [Stochastic Processes and Applied Statistics Research Group](https://stochproc.kaust.edu.sa/). </span> 
 
-<span style="font-size:0.9em;">I am interested in mathematical statistics, Markov chains, Monte Carlo methods, and stochastic analysis. During my PhD my research is focused on applied problems associated with stochastic differential equations (SDEs), these problems include filtering, estimation, and sampling. The goal is to propose and establish methods that are well-studied theoretically and provide numerical implementations that corroborate the proven theoretical findings and their efficacy.
+<span style="font-size:0.9em;">I am interested in mathematical statistics, Markov chains, Monte Carlo methods, and stochastic analysis. My research is focused on theoretical and applied problems associated with stochastic differential equations (SDEs) and stochastic partial differential equations (SPDEs). The goal is to propose and establish methods that are well-studied theoretically and provide numerical implementations that corroborate the proven theoretical findings and their efficacy.
 </span>
 
 Education
 ======
-<span style="font-size:0.9em;line-height: 36px;">PhD in Applied Mathematics and Computational Sciences, Kaust, Saudi Arabia, 2022-SOON!.</span>  
+<span style="font-size:0.9em;line-height: 36px;">PhD in Applied Mathematics and Computational Sciences, Kaust, Saudi Arabia, 2022-2025.</span>  
 <span style="font-size:0.9em;line-height: 36px;;">Masters in Applied Mathematics, Paris Dauphine Universite, France, 2018-2019.</span>  
 <span style="font-size:0.9em;line-height: 36px;">Postgraduate Diploma in Mathematics, International Centre for Theoretical Physics (ICTP), Italy, 2017-2018.</span>  
 <span style="font-size:0.9em;line-height: 36px;">Bachelor in Mathematics, King Saud University, Saudi Arabia, 2012-2016.</span>  
