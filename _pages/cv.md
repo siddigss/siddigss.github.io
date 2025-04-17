@@ -9,9 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+I am a PostDoc at King Abdullah University of Science and Technology (KAUST) in [Stochastic Processes and Applied Statistics Research Group](https://stochproc.kaust.edu.sa/). </span> 
+
 Education
 ======
-* PhD in Applied Mathematics and Computational Sciences, [King Abdullah University of Science and Technology (Kaust)](https://www.kaust.edu.sa/en/), Saudi Arabia, 2022-SOON! (expected)
+* PhD in Applied Mathematics and Computational Sciences, [King Abdullah University of Science and Technology (Kaust)](https://www.kaust.edu.sa/en/), Saudi Arabia, 2022-2025.
     * Thesis Title (Work in progress): Some Contributions to Numerical Approximations of Feynman-Kac Formulae.
     * Advisor: Prof. Ajay Jasra and Prof. Raul Tempone.
 * Masters in Applied Mathematics, [Paris Dauphine Universite](https://dauphine.psl.eu/en/), France, 2018-2019.
