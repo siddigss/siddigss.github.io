@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-I am a PostDoc at King Abdullah University of Science and Technology (KAUST) in [Stochastic Processes and Applied Statistics Research Group](https://stochproc.kaust.edu.sa/). </span> 
+I am a PostDoc at King Abdullah University of Science and Technology (KAUST) in [Stochastic Processes and Applied Statistics Research Group](https://stochproc.kaust.edu.sa/).
 
 Education
 ======
