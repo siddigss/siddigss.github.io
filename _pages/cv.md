@@ -37,12 +37,11 @@ Teaching and Work
   
 Awards and Scholarships
 ======
+* Kaust Dean's List Award 2025.
 * **Fondation Sciences Mathematiques de Paris Scholarship Fellowship (2018-2019)**:
 This is a fellowship for one year awarded by the Foundation Sciences Mathematiques de Paris to attend the second year Master program (M2) in Mathematics at Paris-Dauphine University Paris, France.  
-Amount of Scholarship: 11,000 Euro for one year+ traveling expenses.
 * **ICTP--Postgraduate Diploma Fellowship (2017--2018)**:
 This was fellowship for one years awarded by the The Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy, to attend the postgraduate program in Mathematics 2017-2018.  
-Amount of Scholarship: 12,000 Euro
 * The best performing student in Mathematics at ICTP award 2017–2018.
 * Bachelor with First Honor class and GPA of 5/5.
 * College of science award 2016.
