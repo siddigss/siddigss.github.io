@@ -21,13 +21,13 @@ Education
 
 Research
 ======
-<span style="font-size:0.9em;">Awadelkarim, E., Caffarel, M., Del Moral, P., Jasra, A. (2025). On the particle approximation of lagged Feynman–Kac formulae. Stochastic Processes Appl., 188, 104690.</span>  
+<span style="font-size:0.9em;">(2025) Awadelkarim, E., Caffarel, M., Del Moral, P., Jasra, A.. On the particle approximation of lagged Feynman–Kac formulae. Stochastic Processes Appl., 188, 104690.</span>  
 
-<span style="font-size:0.9em;">(2024)Awadelkarim, E., Jasra, A., Ruzayqat, H. (2024). Unbiased parameter estimation for partially observed diffusions. SIAM Journal on Control and Optimization, 62(5), 2664–2694.</span>  
+<span style="font-size:0.9em;">(2024)Awadelkarim, E., Jasra, A., Ruzayqat, H.. Unbiased parameter estimation for partially observed diffusions. SIAM Journal on Control and Optimization, 62(5), 2664–2694.</span>  
 
-<span style="font-size:0.9em;">(2024) Awadelkarim E., Chada, NK., Jasra, A., Unbiased Approximations for Stationary Distributions of McKean-Vlasov SDEs, arXiv preprint arXiv:2411.11270.</span>  
+<span style="font-size:0.9em;">(2024) Awadelkarim E., Chada, NK., Jasra, A.. Unbiased Approximations for Stationary Distributions of McKean-Vlasov SDEs, arXiv preprint arXiv:2411.11270.</span>  
 
-<span style="font-size:0.9em;">(2024) Awadelkarim, E., Jasra, A.  Multilevel Particle Filters for Partially Observed McKean-Vlasov Stochastic Differential Equations, arXiv preprint arXiv:2404.15606.</span>  
+<span style="font-size:0.9em;">(2024) Awadelkarim, E., Jasra, A..  Multilevel Particle Filters for Partially Observed McKean-Vlasov Stochastic Differential Equations, arXiv preprint arXiv:2404.15606.</span>  
 
 Contact
 =====
