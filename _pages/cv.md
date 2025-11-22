@@ -38,14 +38,15 @@ Teaching and Work
 Awards and Scholarships
 ======
 * Kaust Dean's List Award 2025.
+* Kaust Dean's List Award 2023.
 * **Fondation Sciences Mathematiques de Paris Scholarship Fellowship (2018-2019)**:
 This is a fellowship for one year awarded by the Foundation Sciences Mathematiques de Paris to attend the second year Master program (M2) in Mathematics at Paris-Dauphine University Paris, France.  
 * **ICTP--Postgraduate Diploma Fellowship (2017--2018)**:
 This was fellowship for one years awarded by the The Abdus Salam International Centre for Theoretical Physics (ICTP), Trieste, Italy, to attend the postgraduate program in Mathematics 2017-2018.  
 * The best performing student in Mathematics at ICTP award 2017–2018.
 * Bachelor with First Honor class and GPA of 5/5.
-* College of science award 2016.
-* Best mathematical undergraduate thesis award 2016.
+* College of science award 2016, King Saud University.
+* Best mathematical undergraduate thesis award 2016, King Saud University.
 * King Saud University Dean's award for academic excellence 2016.
 * King Saud University Dean's award for academic excellence 2015.
 * King Saud University Dean's award for academic excellence 2014.
