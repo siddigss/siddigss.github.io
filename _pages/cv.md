@@ -29,7 +29,7 @@ Education
 Teaching and Work
 ======
 * Lecturer of mathematics at Sudan International University 2020-2021.
-* A mathematics trainer in King Abdulaziz and his Companions Foundation for Giftedness and Creativity (MAWHIBA) program for training the Saudi team for the International Mathematical Olympiads 2016, 2017, 2022, 2023, and 2024.
+* A mathematics trainer in King Abdulaziz and his Companions Foundation for Giftedness and Creativity (MAWHIBA) program for training the Saudi team for the International Mathematical Olympiads 2016, 2017, 2022, 2023, 2024, and 2025.
 * Lecturer and teaching assistant with KAUST Academy Program for teaching Artificial intelligence in 2023 and 2024.
 * Teaching Assistant for the PhD level course Stochastic Numerics at Kaust.
 * Teaching Assistant of Mathematics at University of Khartoum 2020.
