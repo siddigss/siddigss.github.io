@@ -9,7 +9,7 @@ redirect_from:
 <span style="font-size:0.9em;">
 I am a PostDoc at King Abdullah University of Science and Technology (KAUST) in [Stochastic Processes and Applied Statistics Research Group](https://stochproc.kaust.edu.sa/). </span> 
 
-<span style="font-size:0.9em;">I am interested in mathematical statistics, Markov chains, Monte Carlo methods, and stochastic analysis. My research is focused on theoretical and applied problems associated with stochastic differential equations (SDEs) and stochastic partial differential equations (SPDEs). The goal is to propose and establish methods that are well-studied theoretically and provide numerical implementations that corroborate the proven theoretical findings and their efficacy.
+<span style="font-size:0.9em;">I work at the intersection of probability, analysis, and computational statistics, with a focus on stochastic modeling and simulation. My research revolves around stochastic differential equations (SDEs) and stochastic partial differential equations (SPDEs), where I investigate both foundational theoretical questions—such as well-posedness, path regularity, and ergodicity—and applied challenges in statistical inference, uncertainty quantification, and computation methods. A central aim is to develop methods that are rigorously justified and validated through robust numerical implementations. To this end, I leverage tools from Monte Carlo simulation, Markov chain Monte Carlo (MCMC), stochastic and functional analysis. Ultimately, I seek to strengthen the bridge between deep probabilistic insight and real-world modeling, especially in systems where randomness, geometry, and nonlinearity combine to produce rich and complex behaviour.
 </span>
 
 Education
@@ -21,13 +21,13 @@ Education
 
 Research
 ======
+<span style="font-size:0.9em;">(2025+) Awadelkarim, E., Jasra, A..  Multilevel Particle Filters for Partially Observed McKean-Vlasov Stochastic Differential Equations, Journal of Applied Probability (to appear).</span>  
+
 <span style="font-size:0.9em;">(2025) Awadelkarim, E., Caffarel, M., Del Moral, P., Jasra, A.. On the particle approximation of lagged Feynman–Kac formulae. Stochastic Processes Appl., 188, 104690.</span>  
 
 <span style="font-size:0.9em;">(2024)Awadelkarim, E., Jasra, A., Ruzayqat, H.. Unbiased parameter estimation for partially observed diffusions. SIAM Journal on Control and Optimization, 62(5), 2664–2694.</span>  
 
 <span style="font-size:0.9em;">(2024) Awadelkarim E., Chada, NK., Jasra, A.. Unbiased Approximations for Stationary Distributions of McKean-Vlasov SDEs, arXiv preprint arXiv:2411.11270.</span>  
-
-<span style="font-size:0.9em;">(2024) Awadelkarim, E., Jasra, A..  Multilevel Particle Filters for Partially Observed McKean-Vlasov Stochastic Differential Equations, arXiv preprint arXiv:2404.15606.</span>  
 
 Contact
 =====
