@@ -21,7 +21,9 @@ Education
 
 Research
 ======
-<span style="font-size:0.9em;">(2025+) Awadelkarim, E., Jasra, A..  Multilevel Particle Filters for Partially Observed McKean-Vlasov Stochastic Differential Equations, Journal of Applied Probability (to appear).</span>  
+<span style="font-size:0.9em;">(2025) Awadelkarim E., Bolin, D., Simas, AB.. Fractional and Integer Order Sobolev Spaces for Compact Metric Graphs, arXiv preprint arXiv:2512.13308.</span>  
+
+<span style="font-size:0.9em;">(2026) Awadelkarim, E., Jasra, A..  Multilevel Particle Filters for Partially Observed McKean-Vlasov Stochastic Differential Equations, Journal of Applied Probability (to appear).</span>  
 
 <span style="font-size:0.9em;">(2025) Awadelkarim, E., Caffarel, M., Del Moral, P., Jasra, A.. On the particle approximation of lagged Feynman–Kac formulae. Stochastic Processes Appl., 188, 104690.</span>  
 
