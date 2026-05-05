@@ -16,10 +16,10 @@ Education
 * PhD in Applied Mathematics and Computational Sciences, [King Abdullah University of Science and Technology (Kaust)](https://www.kaust.edu.sa/en/), Saudi Arabia, 2022-2025.
     * Thesis Title: Some Contributions to Particle and Unbiased Simulation Methods.
     * Advisor: Prof. Ajay Jasra and Prof. Raul Tempone.
-* Masters in Applied Mathematics, [Paris Dauphine Universite](https://dauphine.psl.eu/en/), France, 2018-2019.
+* Masters in Applied Mathematics, [Paris Dauphine Universite](https://dauphine.psl.eu/en/), France, 2018-2019. Funded by [FSMP](https://www.sciencesmaths-paris.fr/en/)-[PGSM](https://sciencesmaths-paris.fr/en/pgsm-master) Program.
     * Project: Central Limit Theorem on Wasserstein spaces.
     * Advisor: Prof. Djalil Chafai.
-* Postgraduate Diploma in Mathematics, [International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/), Italy, 2017-2018.
+* Postgraduate Diploma in Mathematics, [International Centre for Theoretical Physics (ICTP)](https://www.ictp.it/), Italy, 2017-2018. Funded by [KFAS](https://www.kfas.org/).
     * Thesis: On the geometry of spaces of constant curvature.
     * Advisor: Prof.  Claudio Arezzo.
 * Bachelor in Mathematics, [King Saud University](https://www.ksu.edu.sa/en), Saudi Arabia, 2012-2016.
